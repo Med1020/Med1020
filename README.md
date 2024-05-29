@@ -1,11 +1,3 @@
-Hi, I’m Medha👋
-
-:woman_technologist:I worked at Aivara Solutions, a compay I Co-founded. It lead me to explore computer vision. 
-I was able to work on Image Processing and Object Detection with the use of CNNs and Front-End development.
-
-:seedling:My current focus is to:
-1. Improve on my JS skills
-2. Learn React,NodeJs,ExpressJs among other things
 
  
 
