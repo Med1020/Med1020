@@ -1,10 +1,10 @@
-Hey there, I'm Medha
+Hey there, I'm Medha👋
 
 I am a passionate Frontend Developer with a keen eye for design and user experience. I enjoy transforming ideas into reality using code. I am well-versed in various frontend technologies and continuously learning new ones to stay updated in the fast-evolving tech landscape.
  
 ## 📫 Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/medha-moorching-576107171/)
+- **LinkedIn:** [linkedin.com/in/medha-moorching-576107171/](https://www.linkedin.com/in/medha-moorching-576107171/)
 
 ## 📈 GitHub Stats
 
