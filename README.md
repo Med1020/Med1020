@@ -8,7 +8,6 @@ I am a passionate Frontend Developer with a keen eye for design and user experie
 
 ## 📈 GitHub Stats
 
-[![Medha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Med1020)](https://github.com/Med1020/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Med1020)](https://github.com/Med1020/github-readme-stats)
 <!---
