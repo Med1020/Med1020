@@ -4,7 +4,7 @@ I am a passionate Frontend Developer with a keen eye for design and user experie
  
 ## 📫 Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/medha-moorching-576107171/](https://www.linkedin.com/in/medha-moorching-576107171/)
+- **LinkedIn:** [medha-moorching](https://www.linkedin.com/in/medha-moorching-576107171/)
 
 ## 📈 GitHub Stats
 
